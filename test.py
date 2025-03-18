@@ -34,10 +34,4 @@ while should_continue:
     if do_again_or_no == "no":
         should_continue = False
         print("Good bye! 👋")
-
-
-
-
-
-
-
+        
